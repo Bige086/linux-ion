@@ -67,8 +67,7 @@ sudo apt-get install zip -y
 clear
 echo "#### Cloning Repo ####"
 echo " "
-cd ..
-cd ..
+cd ~
 cd home
 git clone https://github.com/ionomy/ion
 clear

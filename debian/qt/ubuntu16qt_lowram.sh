@@ -72,7 +72,7 @@ git clone https://github.com/ionomy/ion-testnet/tree/qt-fix
 clear
 echo "#### Changing To The Ion-Core Directory ####"
 echo " "
-cd ion-testnet/
+cd ion-testnet
 clear
 echo "#### Making ####"
 echo " "

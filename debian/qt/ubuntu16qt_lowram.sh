@@ -73,7 +73,7 @@ git clone https://github.com/ionomy/ion
 clear
 echo "#### Changing To The Ion-Core Directory ####"
 echo " "
-cd ion/
+cd ion
 clear
 echo "#### Making ####"
 echo " "

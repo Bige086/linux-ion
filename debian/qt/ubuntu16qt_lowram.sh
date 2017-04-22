@@ -2,6 +2,7 @@
 
 echo "#### Changing to home directory ####"
 cd ~
+cd home
 clear
 echo "#### Installing Sudo ####"
 echo " "

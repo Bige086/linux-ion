@@ -139,6 +139,6 @@ echo " "
 cd /usr/local/bin
 echo "#### Starting Ion-QT ####"
 echo " "
-iond-qt&
+ion-qt&
 #echo "#### Starting Ion-QT Wallet ####"
 #sudo ./ionx-qt
